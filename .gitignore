@@ -5,9 +5,9 @@
 __pycache__/
 *.pyc
 *.pyo
-svenv/
 venv/
 .venv/
+svenv/
 *.egg-info/
 
 # OS
