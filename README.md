@@ -33,7 +33,7 @@ MCP_SalaryInsights_Agent/
 Clone the repo:
 
 ```bash
-git clonehttps://github.com/VaddiMaithresh-16/SalaryInsight_Agent.git
+git clone https://github.com/VaddiMaithresh-16/SalaryInsight_Agent.git
 cd MCP_SalaryInsights_Agent
 ```
 
