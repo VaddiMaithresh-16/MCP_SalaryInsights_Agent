@@ -5,7 +5,7 @@
 __pycache__/
 *.pyc
 *.pyo
-avenv/
+svenv/
 venv/
 .venv/
 *.egg-info/
